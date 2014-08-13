@@ -1,13 +1,16 @@
 {
     "name": "bfh-datepicker",
-    "title": "Bootstrap Form Helpers DatePicker",
-    "description": "jQuery plugin for adding a datepicker.",
+    "title": "Bootstrap Form Helpers Date Picker",
+    "description": "Date Picker jQuery plugin for Bootstrap.",
     "keywords": [
+        "ui",
+        "jquery",
         "form",
         "input",
-        "datepicker"
+        "datepicker",
+        "bootstrap"
     ],
-    "version": "1.8.2",
+    "version": "2.3.0",
     "author": {
         "name": "Vincent Lamanna",
         "url": "http://vincentlamanna.com"
@@ -19,8 +22,8 @@
         }
     ],
     "bugs": "https://github.com/vlamanna/BootstrapFormHelpers/issues",
-    "homepage": "http://vincentlamanna.com/BootstrapFormHelpers/",
-    "docs": "http://vincentlamanna.com/BootstrapFormHelpers/datepicker",
+    "homepage": "http://bootstrapformhelpers.com",
+    "docs": "http://bootstrapformhelpers.com/datepicker/",
     "download": "https://github.com/vlamanna/BootstrapFormHelpers/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.7"
